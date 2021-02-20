@@ -1,0 +1,30 @@
+.description {
+  margin-left: 1%;
+  margin-right: 1%;
+}
+footer {
+  margin-left: 1%;
+}
+.titleauthors {
+  background-color: #F1F2EB;
+  color: #36413E;
+}
+.navbar {
+  background-color: #5D5E60;
+  color: #36413E;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.body {
+  background-color: #D8DAD3;
+  color: #36413E;
+}
+.bottomtext {
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+}
+.footer {
+  background-color: #36413E;
+}
